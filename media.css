@@ -1,0 +1,39 @@
+@media (max-width:576px){
+   
+   
+       
+   }
+   @media (max-width:768px){
+      
+       
+        .header__menu{
+           display: none;
+        }
+        .menu-open-btn{
+           display: block;
+        }
+        .hide{
+            display: none;
+        }
+       
+       
+       
+   }
+   @media (max-width:992px){
+      
+        
+       .main__section{
+         flex-direction: column;
+       }
+   }
+   @media (max-width:1200px){
+       
+       
+   }
+   @media (min-width:768px){
+    .hide{
+        display: none;
+    }
+   }
+
+  
